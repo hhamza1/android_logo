@@ -1,12 +1,12 @@
 body {
     background: #bdc3c7;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to middle, #bdc3c7,  #2c3e50);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to middle, #bdc3c7, #2c3e50); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to middle, #bdc3c7, #2c3e50);
+    font-family: 'Roboto Condensed', sans-serif;/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
-h1 {
-    font-family: 'Roboto Condensed', sans-serif;
+h1, h3 {
     font-size : 2em;
     text-align: center;
     padding-right: 50px;
@@ -28,7 +28,7 @@ div div{
 .android{
     height:404px;
     width:334px;
-    margin:100px auto;
+    margin:50px auto;
 }
 
 .head{

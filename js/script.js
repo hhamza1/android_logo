@@ -36,7 +36,7 @@ $('.android').on("dblclick", function(){
         $('.head > div').css(sweetAndroid);
         $('.body').css(sweetAndroid);
         $('.body > div').css(sweetAndroid);
-        $('h1').text("Hello I am Android !!");
+        $('h1').text("Hello, I am Android !!");
         $('.left-eye').css(sweetEye);
         $('.right-eye').css(sweetEye);
         isEvil = false;
